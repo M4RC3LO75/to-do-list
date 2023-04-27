@@ -16,7 +16,6 @@ body {
     background-image: url(../img/bg.jpg);
     background-position: center;
     background-size: cover;
-    background-repeat: no-repeat;
 }
 
 button {
@@ -99,7 +98,7 @@ input, select {
 #toolbar {
     padding: 1rem;
     border-bottom: 1px solid #FFF;
-    display: flex;
+    display: none;
 }
 
 #toolbar h4 {
